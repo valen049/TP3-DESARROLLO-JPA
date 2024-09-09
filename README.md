@@ -7,5 +7,5 @@ En este repositorio contiene el trabajo práctico de Proyecto JPA Factura. El tr
 <h3>Utilizamos las siguientes herramientas para realizar el tp:</h3>
 IntelliJ Idea <br/>
 H2 para la base de datos <br/>
-Librerías de LOMBOK
+Librerías de LOMBOK,
 Java Persistence y Java Entity Manager Factory
