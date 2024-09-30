@@ -1,4 +1,4 @@
-#🧾Trabajo Práctico JPA - Desarrollo de Software</h1> <br/> 
+# 🧾Trabajo Práctico JPA - Desarrollo de Software
 Valentín Zalazar
 
 📋 Descripción del Proyecto
