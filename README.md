@@ -3,7 +3,7 @@ Valentín Zalazar
 
 📋 Descripción del Proyecto
 
-Este repositorio alberga trabajo práctico centrado en el desarrollo de un sistema usando Java Persistence API (JPA). Este proyecto fue realizado de forma individual, guiado por los instructivos videos del canal ColmenaTec y las clases magistrales del profesor Alberto Cortez.
+Este repositorio alberga trabajo práctico centrado en el desarrollo de un sistema usando Java Persistence API (JPA). Este proyecto fue realizado de forma individual, guiado por los instructivos videos del canal ColmenaTec y las clases  del profesor Alberto Cortez.
 
 El objetivo principal de este trabajo es explorar cómo JPA nos permite interactuar eficientemente con bases de datos mediante entidades, relaciones y persistencia.
 
